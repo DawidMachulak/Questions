@@ -1,7 +1,5 @@
 # MID SDET — Interview Preparation (English)
 
-> Full English version | Code always EN | Senior drill-down style with edge cases & gotchas
-
 ---
 
 ## Table of Contents
@@ -2217,6 +2215,3 @@ class TestResult:
         return hash((self.name, self.status))  # always implement if __eq__ defined
 ```
 
----
-
-*Document: MID SDET Interview Preparation — English Version*

@@ -1,8 +1,5 @@
 # Przygotowanie do Rekrutacji SDET — Poziom MID
 
-> **Format:** Pytania i odpowiedzi w języku polskim. Kod zawsze po angielsku.  
-> **Styl:** Pytania drążące (senior-level), przypadki brzegowe, gotchas.
-
 ---
 
 ## Spis treści
@@ -2439,7 +2436,3 @@ def temp_file(tmp_path):
         file.unlink()
 ```
 
----
-
-*Dokument wygenerowany jako materiał przygotowawczy do rekrutacji SDET MID.*  
-*Wersja angielska: `SDET_prep_EN.md`*
